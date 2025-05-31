@@ -69,3 +69,6 @@ HAEKATHON/
 
 # API 명세서✨
 ![API 명세서](https://github.com/user-attachments/assets/f38b56eb-8ace-47f0-95cd-ad339d679b4b)
+
+시연 영상
+[![시연영상 1](./6aec53d1-b1db-4b54-9f48-b0b0f2f36655.png)](https://www.youtube.com/watch?v=-TiD1mgdRWs)
